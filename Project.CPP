@@ -6,7 +6,7 @@
 	#include"ctype.h"
 	#include"string.h"
 	#include"stdlib.h"
- //no changes
+ //now changes
 	////////////////// FUNCTION DECLARATIONS //////////////////
 	void graphmode();
 	void demo();
